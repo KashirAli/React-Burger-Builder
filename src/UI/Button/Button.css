@@ -1,0 +1,15 @@
+.success{
+    background: green;
+    border:none;
+    padding:5px 20px;
+    border-radius: 2px ;
+    margin-right: 20px;
+
+
+}
+.danger{
+    background: red;
+    border:none;
+    padding:5px 20px;
+    border-radius: 2px ;
+}

@@ -1,0 +1,27 @@
+.burgerControls{
+    background-color: #663300;
+    width: 100%;
+    min-height: 250px;
+    padding:50px;
+   
+}
+.displayGrid{
+    display:grid;
+    grid-template-columns: 10% 10% 10%;
+    justify-content: center;
+   align-items: center;
+}
+.center{
+    margin-left: 52%;
+    margin-top: 20px;
+    color:white;
+
+    
+}
+.btn{
+    background: lightsalmon;
+    border:none;
+    padding:5px 20px;
+    margin-left: 52%;
+    margin-top: 20px;
+}
